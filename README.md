@@ -33,11 +33,11 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: **Nirmalendu B Patra**
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-89mZzs2i4pN7Gcv
 
 
-Team Member 2:
+Team Member 2: not applicable, this is a 1 member team.
  - Full Name: 
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
@@ -46,8 +46,21 @@ Team Member 2:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
+Prior to running any notebooks or the source code in this repository, please install required packages with the following command.
+
+`pip install -r requirements.txt`
+
+* Task1: Complete - [task1-codebook-study-notes.ipynb](files/task1-codebook-study-notes.ipynb)
+* Task2: Complete - [task2-variational-classifier.ipynb](files/task2-variational-classifier.ipynb)
+* Task3: Complete - [task3-Quanvolutional-NN.ipynb](files/task3-Quanvolutional-NN.ipynb)
+* Task4: Complete - [task4-sine-wave-function.ipynb](files/task4-sine-wave-function.ipynb)
+* Task5: Unfortunately Task5 remains incomplete. The data pre-proprocessing and related unit test code can be found at [task5-TIG-welding/src](files/task5-TIG-welding/src)
+
+
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
+This is related to `task5` (optional part of the project) - which I have not managed
+to complete. There are no slides to present. Details for task 1,2,3,4 are in the above notebooks.
